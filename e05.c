@@ -13,7 +13,7 @@ int main(){
     {
         printf("Ambos salario tem o mesmo valor");
     }else{
-        printf("A diferença é de %2.f reais", (salario1 - salario2));
+        printf("A diferenca é de %2.f reais", (salario1 - salario2));
     }
     
     return 0;
