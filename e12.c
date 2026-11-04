@@ -3,7 +3,7 @@ int opcao, frequencia;
 float notaFinal;
 
 int main(){
-    printf("Menu\n1 - Verificar se o aluno foi aprovado\n2 - Sair ");
+    printf("Menu\n1 - Verificar se o aluno foi aprovado\n2 - Sair\n");
     scanf("%d", &opcao);
     switch (opcao)
     {
